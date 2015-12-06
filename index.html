@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>The Indecisive Princess</title>
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+		<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+		<style>
+		#game {
+			background-repeat: no-repeat;
+ 			background-image:url('bg.svg');
+ 			height:505px;
+ 		}
+		#princess, #dragon, #knight {
+			width: 90px;
+			height: 90px;
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: auto 100%;
+		}
+		#princess {
+			background-image: url('principessa-bn.svg');
+			left: 306px;
+			top: 4px;
+		}
+		#dragon {
+			background-image: url('peruvian-dragon1.svg');
+			left: 5px;
+			top: 317px;
+		}
+		#knight {
+			background-image: url('KnightSilhouette.svg');
+			left: 608px;
+			top: 226px;
+		}
+		#die {
+			background-image: url('Dice-faces_32x32.jpg');
+			width: 32px;
+			height: 32px;
+			background-position: 0 0;
+			margin: 10px 10px 10px 0;
+			float: left;
+		}
+		#turn {
+			line-height: 52px;
+		}
+		</style>
+		<script>
+		$(function() {
+			var characters = ['Princess', 'Dragon', 'Knight'];
+			var move = 0;
+			$('#game div').draggable();
+			$('#reset').click(function() {
+				move = 0;
+				$('#game div').css({
+					top: '',
+					left: ''
+				});
+				$('#turn').html('Click a die to roll');
+			});
+			$('#die').click(function() {
+				var val = Math.round(Math.random() * 5) + 1;
+				$('#die').css('background-position', val * 32 + 'px 0px');
+				var c = characters[move % 3];
+				var dir;
+				switch(c) {
+					case 'Dragon':
+						dir = 'clockwise';
+						break;
+					case 'Princess':
+						if(val % 2 === 0) {
+							dir = 'clockwise';
+						} else {
+							dir = 'counterclockwise';
+						}
+						break;
+					case 'Knight':
+						dir = 'in any direction';
+						break;
+				}
+				$('#turn').html('Move <strong>' + c + ' ' + val + ' square' + ((val > 1) ? 's ' : ' ') + dir + '</strong>');
+				move++;
+			});
+		});
+		</script>
+	</head>
+	<body>
+		<div class="container">
+			<h1>The Indecisive Princess</h1>
+			<div style="width: 706px">
+				<div id="die"></div>
+				<span id="turn">Click a die to roll</span>
+				<div style="clear:both"></div>
+			</div>
+			<div id="game">
+				<div id="princess"></div>
+				<div id="dragon"></div>
+				<div id="knight"></div>
+			</div>
+			<button id="reset" class="btn btn-danger btn-sm">Reset game</button>
+			<span>Fork on <a href="http://github.com/ruslanas/princess">GitHub</a>.
+				Image source <a href="https://openclipart.org">OpenClipart</a>.
+			</span>
+		</div>
+	</body>
+</html>

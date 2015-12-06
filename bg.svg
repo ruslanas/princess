@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="186.7813mm"
+   height="133.41522mm"
+   viewBox="0 0 661.82349 472.7311"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bg.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4050">
+      <stop
+         style="stop-color:#e80000;stop-opacity:0.27551019;"
+         offset="0"
+         id="stop4052" />
+      <stop
+         style="stop-color:red;stop-opacity:0;"
+         offset="1"
+         id="stop4054" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0337995"
+     inkscape:cx="481.29142"
+     inkscape:cy="184.0707"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="728"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Sluoksnis 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.684572,-497.87319)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.6719023;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect16696"
+       width="92.874313"
+       height="92.874313"
+       x="40.520523"
+       y="498.70914"
+       inkscape:tile-cx="96.234653"
+       inkscape:tile-cy="461.65351"
+       inkscape:tile-w="113.10017"
+       inkscape:tile-h="113.10017"
+       inkscape:tile-x0="39.68457"
+       inkscape:tile-y0="405.10342" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect16696"
+       xlink:href="#rect16696"
+       id="use16698"
+       inkscape:tile-cx="96.234653"
+       inkscape:tile-cy="461.65351"
+       inkscape:tile-w="113.10017"
+       inkscape:tile-h="113.10017"
+       inkscape:tile-x0="39.68457"
+       inkscape:tile-y0="405.10342"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect16696"
+       xlink:href="#rect16696"
+       transform="translate(94.546217,0)"
+       id="use16700"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect16696"
+       xlink:href="#rect16696"
+       transform="translate(189.09243,0)"
+       id="use16702"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect16696"
+       xlink:href="#rect16696"
+       transform="translate(283.63864,0)"
+       id="use16704"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#rect16696"
+       xlink:href="#rect16696"
+       transform="translate(378.18486,0)"
+       id="use16706"
+       inkscape:tile-cx="548.63532"
+       inkscape:tile-cy="461.65351"
+       inkscape:tile-w="113.10017"
+       inkscape:tile-h="113.10017"
+       inkscape:tile-x0="492.08524"
+       inkscape:tile-y0="405.10342"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16698"
+       xlink:href="#use16698"
+       id="use16720"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16698"
+       xlink:href="#use16698"
+       transform="translate(0,94.546217)"
+       id="use16722"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16698"
+       xlink:href="#use16698"
+       transform="translate(0,189.09243)"
+       id="use16724"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16698"
+       xlink:href="#use16698"
+       transform="translate(0,283.63864)"
+       id="use16726"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16698"
+       xlink:href="#use16698"
+       transform="translate(0,378.18486)"
+       id="use16728"
+       inkscape:tile-cx="96.234653"
+       inkscape:tile-cy="914.05418"
+       inkscape:tile-w="113.10017"
+       inkscape:tile-h="113.10017"
+       inkscape:tile-x0="39.68457"
+       inkscape:tile-y0="857.50409"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16728"
+       xlink:href="#use16728"
+       id="use16730"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16728"
+       xlink:href="#use16728"
+       transform="translate(94.546217,0)"
+       id="use16732"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16728"
+       xlink:href="#use16728"
+       transform="translate(189.09243,0)"
+       id="use16734"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16728"
+       xlink:href="#use16728"
+       transform="translate(283.63864,0)"
+       id="use16736"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16728"
+       xlink:href="#use16728"
+       transform="translate(378.18486,0)"
+       id="use16738"
+       inkscape:tile-cx="548.63532"
+       inkscape:tile-cy="914.05418"
+       inkscape:tile-w="113.10017"
+       inkscape:tile-h="113.10017"
+       inkscape:tile-x0="492.08524"
+       inkscape:tile-y0="857.50409"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16706"
+       xlink:href="#use16706"
+       id="use16756"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16706"
+       xlink:href="#use16706"
+       transform="translate(94.546217,0)"
+       id="use16758"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16706"
+       xlink:href="#use16706"
+       transform="translate(189.09243,0)"
+       id="use16760"
+       inkscape:tile-cx="774.83565"
+       inkscape:tile-cy="461.65351"
+       inkscape:tile-w="113.10017"
+       inkscape:tile-h="113.10017"
+       inkscape:tile-x0="718.28557"
+       inkscape:tile-y0="405.10342"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16738"
+       xlink:href="#use16738"
+       id="use16762"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16738"
+       xlink:href="#use16738"
+       transform="translate(94.546217,0)"
+       id="use16764"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16738"
+       xlink:href="#use16738"
+       transform="translate(189.09243,0)"
+       id="use16766"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16760"
+       xlink:href="#use16760"
+       id="use16768"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16760"
+       xlink:href="#use16760"
+       transform="translate(0,94.546217)"
+       id="use16770"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16760"
+       xlink:href="#use16760"
+       transform="translate(0,189.09243)"
+       id="use16772"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use16760"
+       xlink:href="#use16760"
+       transform="translate(0,283.63864)"
+       id="use16774"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.15026283px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="147.10887"
+       y="635.68329"
+       id="text16778"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan16780"
+         x="147.10887"
+         y="635.68329">1. Dragon moves clockwise always</tspan><tspan
+         sodipodi:role="line"
+         x="147.10887"
+         y="658.37109"
+         id="tspan16831">2. Princess moves clockwise if die rolls even</tspan><tspan
+         sodipodi:role="line"
+         x="147.10887"
+         y="681.05896"
+         id="tspan16833">or counterclockwise if die rolls odd</tspan><tspan
+         sodipodi:role="line"
+         x="147.10887"
+         y="703.74677"
+         id="tspan16835">3. Player can choose any direction for the knight</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text16800"
+       y="749.82532"
+       x="147.10887"
+       style="font-style:normal;font-weight:normal;font-size:18.15026283px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="749.82532"
+         x="147.10887"
+         id="tspan16802"
+         sodipodi:role="line">Player rolls one die for each character. First move</tspan><tspan
+         y="772.51312"
+         x="147.10887"
+         sodipodi:role="line"
+         id="tspan16814">princess, then dragon and then knight. Player</tspan><tspan
+         y="795.20099"
+         x="147.10887"
+         sodipodi:role="line"
+         id="tspan16825">wins if knight lands on the princesses square. If</tspan><tspan
+         y="817.88879"
+         x="147.10887"
+         sodipodi:role="line"
+         id="tspan16827">dragon lands on the princesses square - player</tspan><tspan
+         y="840.57666"
+         x="147.10887"
+         sodipodi:role="line"
+         id="tspan16829">loses and the dragon eats the princess.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.55919"
+       y="841.48962"
+       id="text16837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan16839"
+         x="190.55919"
+         y="841.48962"> </tspan></text>
+  </g>
+</svg>
